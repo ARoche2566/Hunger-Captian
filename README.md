@@ -26,7 +26,7 @@ Check out [API LIVE DEMO](https://backend-hunger-captian.herokuapp.com/) here!!
 1. Git Clone 
 
 ```
-
+git clone https://github.com/ARoche2566/Hunger-Captian.git
 ```
 
 2. Backend setting
